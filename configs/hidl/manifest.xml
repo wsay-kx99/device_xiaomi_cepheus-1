@@ -164,6 +164,7 @@
             <name>INfc</name>
             <instance>default</instance>
         </interface>
+        <fqname>@1.2::INfc/default</fqname>
     </hal>
     <hal format="hidl">
         <name>android.hardware.radio</name>
@@ -270,6 +271,7 @@
             <name>INqNfc</name>
             <instance>default</instance>
         </interface>
+        <fqname>@1.2::INqNfc/default</fqname>
     </hal>
     <hal format="hidl">
         <name>vendor.qti.data.factory</name>
